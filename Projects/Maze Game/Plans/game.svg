@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1419"
+   inkscape:export-filename="D:\Git Repos\maze-game-Mkath1423\Plans\Game Screen.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="game.svg">
+  <defs
+     id="defs1413" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-112.03888"
+     inkscape:cy="982.13882"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1416">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,203)">
+    <rect
+       style="opacity:1;fill:#7773e0;fill-opacity:1;stroke:#000000;stroke-width:0.85918671;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1972"
+       width="500.28137"
+       height="501.79327"
+       x="0.079547696"
+       y="-204.11688" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.303574"
+       y="-175.47023"
+       id="text1966"><tspan
+         sodipodi:role="line"
+         id="tspan1964"
+         x="70.303574"
+         y="-153.24522"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="353.02975"
+       y="-167.15475"
+       id="text1970"><tspan
+         sodipodi:role="line"
+         id="tspan1968"
+         x="353.02975"
+         y="-167.15475"
+         style="stroke-width:0.26458332">Time: XX:XX</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#b92929;fill-opacity:1;stroke:#000000;stroke-width:0.13742299;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path1976"
+       cx="52.91666"
+       cy="-103.27679"
+       rx="7.0849047"
+       ry="7.4628801" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:0.70008749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1982"
+       width="4.5357141"
+       height="55.940475"
+       x="72.571426"
+       y="-116.50595" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:0.70008749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1984"
+       width="2.267858"
+       height="116.41668"
+       x="31.749998"
+       y="-118.77381" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:0.70008749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1986"
+       width="88.446434"
+       height="4.5357213"
+       x="31.749998"
+       y="-6.8928514" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:0.70008749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1988"
+       width="59.720242"
+       height="6.0476222"
+       x="72.571426"
+       y="-60.565475" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:1.37546253;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1984-4"
+       width="2.2708049"
+       height="448.79105"
+       x="116.53325"
+       y="38.015095"
+       transform="matrix(-0.05273268,-0.99860866,0.99999369,-0.00355261,0,0)" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:1.22324395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1984-4-7"
+       width="2.2698493"
+       height="355.10403"
+       x="478.50555"
+       y="-100.04871"
+       transform="matrix(0.99929483,-0.03754783,-0.00221497,0.99999755,0,0)" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:1.37546253;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1984-4-4"
+       width="2.2708049"
+       height="448.79105"
+       x="-238.56372"
+       y="20.771091"
+       transform="matrix(-0.05273268,-0.99860866,0.99999369,-0.00355261,0,0)" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:1.20334804;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1984-4-7-4"
+       width="2.269748"
+       height="343.66187"
+       x="477.13339"
+       y="-88.609077"
+       transform="matrix(0.9993395,-0.03633959,-0.00228872,0.99999738,0,0)" />
+    <rect
+       style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#000000;stroke-width:1.22128522;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1984-4-7-6"
+       width="2.2698393"
+       height="353.9693"
+       x="31.635639"
+       y="-115.32999"
+       transform="matrix(0.99929933,-0.03742801,-0.00222207,0.99999753,0,0)" />
+    <ellipse
+       style="opacity:1;fill:#29b938;fill-opacity:1;stroke:#000000;stroke-width:0.13742299;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path1976-4"
+       cx="65.767853"
+       cy="53.583332"
+       rx="7.0849051"
+       ry="7.4628801" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.185587"
+       y="-138.63292"
+       id="text1970-8"><tspan
+         sodipodi:role="line"
+         id="tspan1968-4"
+         x="17.185587"
+         y="-138.63292"
+         style="stroke-width:0.26458332">Score: XXXX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="15.921732"
+       y="-170.46974"
+       id="text1970-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan1968-4-7"
+         x="15.921732"
+         y="-170.46974"
+         style="stroke-width:0.26458332">Round: X</tspan></text>
+    <rect
+       style="opacity:1;fill:#b92982;fill-opacity:1;stroke:#000000;stroke-width:0.70008749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1576"
+       width="69.547623"
+       height="26.458332"
+       x="405.93091"
+       y="255.1002" />
+    <rect
+       style="opacity:1;fill:#b92982;fill-opacity:1;stroke:#000000;stroke-width:0.78873301;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1576-3"
+       width="88.274994"
+       height="26.458334"
+       x="301.79645"
+       y="254.2887"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="304.64886"
+       y="273.56549"
+       id="text1597"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1595"
+         x="304.64886"
+         y="273.56549"
+         style="font-size:19.75555611px;stroke-width:0.26458332">End Game</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="422.59378"
+       y="273.3696"
+       id="text1597-9"><tspan
+         sodipodi:role="line"
+         id="tspan1595-0"
+         x="422.59378"
+         y="273.3696"
+         style="font-size:19.75555611px;stroke-width:0.26458332">Quit</tspan></text>
+  </g>
+</svg>

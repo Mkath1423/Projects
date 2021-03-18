@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg4595"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="game_over.svg">
+  <defs
+     id="defs4589" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="252.61566"
+     inkscape:cy="235.17285"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4592">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70832)">
+    <rect
+       style="opacity:1;fill:#7773e0;fill-opacity:1;stroke:#000000;stroke-width:0.2273204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1972"
+       width="132.36258"
+       height="132.76259"
+       x="0.14159589"
+       y="165.04073" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.11124802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40476558"
+       x="30.383532"
+       y="203.73201"
+       id="text5148"><tspan
+         sodipodi:role="line"
+         id="tspan5146"
+         x="30.383532"
+         y="203.73201"
+         style="stroke-width:0.40476558">GAME OVER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.95249844px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40476558"
+       x="39.557491"
+       y="218.62508"
+       id="text5148-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5146-4"
+         x="39.557491"
+         y="218.62508"
+         style="font-size:12.95249844px;stroke-width:0.40476558">Score: XXXX</tspan></text>
+    <rect
+       style="opacity:1;fill:#b92982;fill-opacity:1;stroke:#000000;stroke-width:0.26822916;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1576-3"
+       width="30.020208"
+       height="8.9978437"
+       x="90.728737"
+       y="254.43353"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08997843"
+       x="92.832703"
+       y="260.80011"
+       id="text1597"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1595"
+         x="92.832703"
+         y="260.80011"
+         style="font-size:5.64444447px;stroke-width:0.08997843">Start Menu</tspan></text>
+    <rect
+       style="opacity:1;fill:#b92982;fill-opacity:1;stroke:#000000;stroke-width:0.26822916;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1576-3-1"
+       width="30.020206"
+       height="8.9978437"
+       x="90.445251"
+       y="267.55463"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08997843"
+       x="92.549217"
+       y="273.54324"
+       id="text1597-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1595-2"
+         x="92.549217"
+         y="273.54324"
+         style="font-size:5.64444447px;stroke-width:0.08997843">New Game</tspan></text>
+    <rect
+       style="opacity:1;fill:#b92982;fill-opacity:1;stroke:#000000;stroke-width:0.26822916;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1576-3-8"
+       width="30.020206"
+       height="8.9978437"
+       x="90.445251"
+       y="281.53976"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.71838999px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08997843"
+       x="99.163803"
+       y="288.09534"
+       id="text1597-8"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1595-8"
+         x="99.163803"
+         y="288.09534"
+         style="font-size:6.71838999px;stroke-width:0.08997843">Quit</tspan></text>
+  </g>
+</svg>
